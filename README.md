@@ -1,4 +1,9 @@
-- 👋 Hi, I'm @haqqulamal
-- 👀 I'm interested in learning Web Development
-- 🌱 Currently I am learning Front-end and Back-end Web
-- ⚡ Interesting fact: Always want to learn
+# Hello World!
+
+I am **Haqqul Amal Jiddan** a Junior Web Developer.<br>
+
+<p align="left">
+<a href="https://github.com/jahfal1987">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
