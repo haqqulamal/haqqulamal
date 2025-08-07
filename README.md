@@ -1,6 +1,6 @@
 # Hello World!
 
-I am **Haqqul Amal Jiddan** a Junior Web Developer.<br>
+I am **Haqqul Amal Jiddan** a Junior Engineer.<br>
 
 <p align="left">
 <a href="https://github.com/haqqulamal">
